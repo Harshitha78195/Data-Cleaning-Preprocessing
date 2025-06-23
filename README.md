@@ -19,8 +19,8 @@ This project focuses on **cleaning and preprocessing** the Titanic dataset to pr
 
 ##  Dataset
 
-- Dataset used: Titanic dataset (`titanic.csv`)
-- [Download Titanic Dataset](https://www.kaggle.com/competitions/titanic/data) *(or use the uploaded file if available)*
+- Dataset used: Titanic dataset 
+- [Download Titanic Dataset](https://www.kaggle.com/competitions/titanic/data) 
 
 ---
 
